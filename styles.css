@@ -136,3 +136,8 @@ footer {
   background-position: center;
 }
 
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+  transform: scale(0.95);
+}
